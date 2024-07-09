@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Gueni\u00E8vre",
+    "GamePoints": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "Name": "Perceval",
+    "GamePoints": [
+      25,
+      15,
+      35
+    ]
+  },
+  {
+    "Name": "Arthur",
+    "GamePoints": [
+      8,
+      8
+    ]
+  },
+  {
+    "Name": "Merlin",
+    "GamePoints": [
+      23,
+      12,
+      8,
+      6,
+      9
+    ]
+  }
+]
